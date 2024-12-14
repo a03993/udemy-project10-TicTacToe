@@ -1,9 +1,7 @@
-import Player from "./components/Player"
-import GameBoard from "./components/GameBoard"
+import Player from "./components/Player";
+import GameBoard from "./components/GameBoard";
 
 function App() {
-  
-
   return (
     <main>
       <div id="game-container">
@@ -15,7 +13,7 @@ function App() {
       </div>
       LOG
     </main>
-  )
+  );
 }
 
-export default App
+export default App;
